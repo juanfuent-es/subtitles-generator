@@ -1,14 +1,10 @@
-# Audio Subtitle Generator
+# Audio to Subtitles - SRT Generator
+
+Easily convert audio files into subtitles with OpenAI's Whisper.
+Transcribes audio files into adjustable subtitles with timestamps, on multiple languages
 
 [[Whisper]](https://openai.com/blog/whisper)
 [[Whisper Code]](https://arxiv.org/abs/2212.04356)
-
-
-Easily convert audio files into subtitles with OpenAI's Whisper.  
-
-- Transcribes audio files into subtitles with timestamps
-- Multiple languages
-- Adjustable subtitle length for readability. (Timestamped words)
 
 ## Installation
 
