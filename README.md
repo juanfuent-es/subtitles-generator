@@ -1,5 +1,9 @@
 # Audio Subtitle Generator
 
+[[Whisper]](https://openai.com/blog/whisper)
+[[Whisper Code]](https://arxiv.org/abs/2212.04356)
+
+
 Easily convert audio files into subtitles with OpenAI's Whisper.  
 
 - Transcribes audio files into subtitles with timestamps
